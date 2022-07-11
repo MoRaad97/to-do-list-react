@@ -1,48 +1,31 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## React Tutorial – The Beginners Guide to Learning React JS in 2020
 
-# To-Do List
+[To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
 
-> "To-Do List" is a web application allow you to write you Task. It is a Single Page App (SPA).
+### Clone the starter project
 
-## Built With
+You can download or clone this project by running this command from your terminal:
 
-- Html 
-- Css 
-- Javascript
-- React
+```
+git clone https://github.com/Ibaslogic/react-todo-app
+```
 
-## Live Demo (if available)
+This will create a directory in the name of the project folder.
 
-[Not Available]()
+Once you have the project files and folders bootstrapped, open it with your text editor.
 
-## Getting Started
+Next, switch inside the project directory and run:
 
-To get a local copy up and running follow these simple steps.
+```
+npm install
+```
 
-- Clone the project `$ git clone https://github.com/MoRaad97/math-magicians.git`
-- Open your project in VS code of any text editor that you love to use.
-- Install node js `npm install`
-- you can bulid the project `npm run build` and run it using the browser or live server or you can run it using `npm run start` or `npm run dev`.
+This will install all the necessary dependencies in the local `node_modules` folder.
 
-## Authors
+Finally, start your development server by running:
 
-👤 **Mohammed Raad**
+```
+npm start
+```
 
-- GitHub: [@MoRaad97](https://github.com/MoRaad97)
-- Twitter: [@MohammedRaadz](https://twitter.com/MohammedRaadz)
-- LinkedIn: [Mohammed Raad](linkedin.com/in/mohammed-raad-600176210)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse
-- Microverse students 
+You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
