@@ -19,10 +19,10 @@
 
 To get a local copy up and running follow these simple steps.
 
-- Clone the project `$ git clone https://github.com/MoRaad97/math-magicians.git`
+- Clone the project `$ git clone https://github.com/MoRaad97/to-do-list-react.git`
 - Open your project in VS code of any text editor that you love to use.
 - Install node js `npm install`
-- you can bulid the project `npm run build` and run it using the browser or live server or you can run it using `npm run start` or `npm run dev`.
+- you can bulid the project `npm run build` and run it using the browser or you can run it using `npm run start`.
 
 ## Authors
 
